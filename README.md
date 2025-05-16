@@ -5,12 +5,9 @@ Blink Thema Updater (Github Integratie)
 
 ## Beschrijving
 
-In deze POC wordt het Blink Thema up to date gehouden via de plugin: [plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) met Github integratie.
+In deze POC wordt het Blink Thema up to date gehouden via de plugin: [plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) met Github integratie. Er wordt gekeken of de style.css in de root van het Thema gelijk is aan de laatste tag release versie in Github. 
 
-In deze POC wordt gekeken of de style.css in de root van het Theme gelijk is aan de laatste release versie in Github.
-
-
-Deze POC is er vergelijk met LINK, echter wordt hier geen gebruik gemaakt van het handmatig uploaden van een .zip.
+Deze POC is vergelijkbaar met [Blink Updater Selfhosted](https://github.com/Myron1271/blink), echter wordt hier geen gebruik gemaakt van het handmatig uploaden van een .zip.
 
 ***Let op!**: deze installatie gaat ervan uit dat er al een Lokale Wordpress Environment is opgezet en dat het Thema al is toegevoegd.*
 
